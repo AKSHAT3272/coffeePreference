@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=Creamer\ Sugar
+comment0.target=CoffeePreference(int,\ int)
+comment1.params=
+comment1.target=void\ ShowPreferences()
+comment1.text=The\ method\ Prints\ the\ user's\ coffee\ preference.\r\nHere\ the\ function\ takes\ ther\ user\ defined\ values\ from\ the\ constructor\ and\ prints\ those\ values.\r\nExample\ System.out.println("Coffee")-This\ will\ simply\ Print\ Coffee.\r\n
+numComments=2
